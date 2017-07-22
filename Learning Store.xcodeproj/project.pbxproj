@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					887B37851F0A39F00078C5BD = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 4U36MQ9M27;
+						DevelopmentTeam = RVQGYHZRZQ;
 						ProvisioningStyle = Automatic;
 					};
 					887B37991F0A39F00078C5BD = {
@@ -417,11 +417,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4U36MQ9M27;
+				DEVELOPMENT_TEAM = RVQGYHZRZQ;
 				INFOPLIST_FILE = "Learning Store/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "nokia.nokiaEDU.Learning-Store";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nokia.Learning-Store";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -431,11 +431,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4U36MQ9M27;
+				DEVELOPMENT_TEAM = RVQGYHZRZQ;
 				INFOPLIST_FILE = "Learning Store/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "nokia.nokiaEDU.Learning-Store";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nokia.Learning-Store";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
